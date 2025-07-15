@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
 # -----------------Commands to run this--------------
-npm install
-pm2 start "serve -s build -l 3000" --name "react-npm"
+### `npm install`
+### `pm2 start "serve -s build -l 3000" --name "react-npm"`
 # ---------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
